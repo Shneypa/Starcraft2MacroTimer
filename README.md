@@ -9,7 +9,7 @@ GOAL 1: Allow player to see when the macro cycle is about to expire and he needs
 	- Order SCVs / Drones / Probes
 	- Call down Mules / Inject / Chronoboost 
 	
-	 /  2 supply structures also queued here /  Production queue
+	2 supply structures also queued here /  Production queue
 	  
 	DONE: WITH TURNING PROGRESS BAR TO RED.       
 	NEXT STEP IS TO ADD SOUND
